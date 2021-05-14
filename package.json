@@ -1,0 +1,16 @@
+{
+  "name": "create-ts-boilerplate",
+  "version": "1.0.0",
+  "bin": {
+    "create-ts-boilerplate": "index.js"
+  },
+  "description": "A CLI to automatically clone the typescript-boilerplate repo.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Capure/create-ts-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Capure",
+  "license": "MIT"
+}
